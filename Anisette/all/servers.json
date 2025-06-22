@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "name": "Hoking's Server",
+      "address": "https://apple.fancyplus.top"
+    },
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
@@ -51,10 +55,6 @@
     {
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
-    },
-    {
-      "name": "Hoking's Server",
-      "address": "https://apple.fancyplus.top"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
